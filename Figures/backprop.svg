@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1247.8 547.8" style="enable-background:new 0 0 1247.8 547.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:48px;}
+</style>
+<path class="st0" d="M393.6,319.6L393.6,319.6c-30.4,0-55.1-24.6-55.1-55.1l0,0c0-30.4,24.6-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.6,55.1,55.1l0,0C448.7,294.9,424,319.6,393.6,319.6z"/>
+<path class="st0" d="M393.6,344.6L393.6,344.6"/>
+<path class="st0" d="M803.5,264.3L803.5,264.3c-30.4,0-55.1-24.7-55.1-55.1l0,0c0-30.4,24.7-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.6,55.1,55.1l0,0C858.5,239.6,833.9,264.3,803.5,264.3z"/>
+<path class="st0" d="M803.5,399.5L803.5,399.5c-30.4,0-55.1-24.6-55.1-55.1l0,0c0-30.4,24.7-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.6,55.1,55.1l0,0C858.5,374.8,833.9,399.5,803.5,399.5z"/>
+<path class="st0" d="M803.5,534.7L803.5,534.7c-30.4,0-55.1-24.7-55.1-55.1l0,0c0-30.4,24.7-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.6,55.1,55.1l0,0C858.5,510,833.9,534.7,803.5,534.7z"/>
+<path class="st0" d="M803.5,129.1L803.5,129.1c-30.4,0-55.1-24.6-55.1-55.1l0,0c0-30.4,24.7-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.7,55.1,55.1l0,0C858.5,104.4,833.9,129.1,803.5,129.1z"/>
+<path class="st1" d="M1178.8,331.9L1178.8,331.9c-30.4,0-55.1-24.6-55.1-55.1l0,0c0-30.4,24.7-55.1,55.1-55.1l0,0
+	c30.4,0,55.1,24.6,55.1,55.1l0,0C1233.8,307.2,1209.2,331.9,1178.8,331.9z"/>
+<rect x="-13.6" y="74.6" class="st2" width="202.1" height="66.7"/>
+<polyline class="st0" points="747.7,209.5 450.9,263.9 746.1,74.6 "/>
+<path class="st0" d="M746.5,343.9"/>
+<path class="st0" d="M746.1,74.6"/>
+<polyline class="st0" points="746.5,343.9 450.9,263.9 748.4,479.6 "/>
+<path class="st0" d="M748.4,479.6"/>
+<path class="st0" d="M747.7,209.5"/>
+<polyline class="st0" points="858.5,209.2 1121.5,275.8 858.5,74 "/>
+<polyline class="st0" points="858.5,479.6 1121.6,277.4 858.5,344.4 "/>
+<path class="st0" d="M129.6,344.7l209-80.2l-209-55c0-30.4-24.7-55.1-55.1-55.1l0,0c-30.4,0-55.1,24.6-55.1,55.1l0,0
+	c0,30.4,24.6,55.1,55.1,55.1l0,0c30.4,0,55.1-24.7,55.1-55.1"/>
+<path class="st0" d="M129.6,209.5"/>
+<path class="st0" d="M129.6,344.7c0,30.4-24.7,55.1-55.1,55.1l0,0c-30.4,0-55.1-24.6-55.1-55.1l0,0c0-30.4,24.6-55.1,55.1-55.1l0,0
+	C104.9,289.7,129.6,314.3,129.6,344.7"/>
+<polygon class="st2" points="179.4,0 424.9,0 424.9,0 "/>
+<text transform="matrix(0.9749 0 0 1 1167.3564 289.3626)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 51.1128 221.7617)" class="st3 st4">x1</text>
+<text transform="matrix(1 0 0 1 51.1129 356.9643)" class="st3 st4">x2</text>
+<polygon class="st2" points="87.5,182.8 112.2,182.8 112.2,182.8 "/>
+<text transform="matrix(1 0 0 1 355.8571 279.7205)" class="st3 st4">h1,1</text>
+<text transform="matrix(1 0 0 1 763.9111 86.5595)" class="st3 st4">h2,1</text>
+<text transform="matrix(1 0 0 1 763.9111 221.7619)" class="st3 st4">h2,2</text>
+<text transform="matrix(1 0 0 1 763.9111 356.9643)" class="st3 st4">h2,3</text>
+<text transform="matrix(1 0 0 1 763.9111 495.1025)" class="st3 st4">h2,4</text>
+</svg>
